@@ -1,0 +1,2026 @@
+image_path,class_name,labels
+/kaggle/input/van-gogh-paintings/Paris/Vase with Red Poppies.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with a Japanese Print.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Apples.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Windmill on Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait in Front of the Easel.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Walk Along the Banks of the Seine Near Asnieres.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Sloping Path in Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Pont du Carrousel and the Louvre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Basket of Apples to Lucien Pissarro.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Street Scene in Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Wheat Field with a Lark.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Horse.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Grapes, Pears and Lemons.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Bloaters 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Terrace of a Cafe on Montmartre La Guinguette.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Vase with Poppies, Cornflowers, Peonies and Chrysanthemums.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations and Roses and a Bottle.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Pipe and Glass.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 6.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Vase with Asters, Salvia and Other Flowers.jpg",Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Apples, Pears, Lemons and Grapes.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of a Man with a Skull Cap.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Three Pairs of Shoes.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Still Life with Abs.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Gladioli and Carnations 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Male Torso.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Zinnias.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Two Herrings, a Cloth and a Glass.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 9.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of a Woman Madame Tanguy.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Peonies.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of a Man with a Moustache.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 7.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Decanter and Lemons on a Plate.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Trees in a Field on a Sunny Day.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Bloaters.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Portrait of the Art Dealer Alexander Reid, Sitting in an Easy Chair.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with White and Red Carnations.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Gladioli and Carnations.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Daisies and Anemones.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Restaurant de la Sirene at Asnieres.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 8.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations and Other Flowers.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Roofs and Backs of Houses.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Grapes.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Lemons on a Plate.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Montmartre with Windmills.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Grey Felt Hat.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Seine with a Rowing Boat.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Fourteenth of July Celebration in Paris.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 10.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 8.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of a Man.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vegetable Gardens at Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Trees and Undergrowth 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Dark Felt Hat at the Easel.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Undergrowth 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 5.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Daisies.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/White Vase with Roses and Other Flowers.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Rispal Restaurant at Asnieres.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Dark Felt Hat.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Two Cut Sunflowers 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Tambourine with Pansies.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Undergrowth.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Trees and Undergrowth.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Street Scene in Montmartre Le Moulin a Poivre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Paris from Vincent s Room in the Rue Lepic.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Gladioli and Lilac.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Pears.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vegetable Garden in Montmartre.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Vase with Lilacs, Daisies and Anemones.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Woman Sitting in the Grass.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Zinnias and Geraniums.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Green Parrot.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Cornflowers and Poppies.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Red and White Carnations on Yellow Background.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of the Roofs of Paris.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Mussels and Shrimps.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Roadway with Underpass The Viaduct.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Pipe 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Kneeling Man.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Scabiosa and Ranunculus.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Paris from Vincent s Room in the Rue Lepic 2.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Vase with Flowers, Coffeepot and Fruit.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Bois de Boulogne with People Walking.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Red Gladioli 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of the Art Dealer Alexander Reid.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Bois de Boulogne with People Walking 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of Pere Tanguy.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Zinnias and Other Flowers.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations and Zinnias.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Banks of the Seine.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Banks of the Seine with Boats.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with French Novels and a Rose.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Skull.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat and Pipe.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Carnations 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Asters and Phlox.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Woman Sitting by a Cradle.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Meat, Vegetables and Pottery.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Gladioli.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Myosotis and Peonies.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Plaster Statuette, a Rose and Two Novels.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 5.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Red Cabbages and Onions.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vegetable Gardens in Montmartre La Butte Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of Pere Tanguy 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Bois de Boulogne with People Walking 3.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Twilight, before the Storm Montmartre.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Red Gladioli.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Seine with the Pont de la Grande Jette.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat 5.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Two Cut Sunflowers 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Two Cut Sunflowers.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat 4.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 4.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 6.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Seine Bridge at Asnieres.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Skull 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 4.jpg,Paris,6
+"/kaggle/input/van-gogh-paintings/Paris/Still Life with Apples, Meat and a Roll.jpg",Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Basket of Apples.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Seine with the Pont de Clichy.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Grey Felt Hat 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Pipe.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Flowers.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Straw Hat.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Red Gladioli 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Hill of Montmartre with Quarry.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Bloaters and Garlic.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Vase with Hollyhocks.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with Three Books.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Portrait of Pere Tanguy 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Restaurant de la Sirene at Asnieres.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Paris from Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 11.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait 2.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Self-Portrait with Grey Felt Hat 3.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Still Life with a Basket of Crocuses.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of Paris from near Montmartre.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/Plaster Statuette of a Female Torso 7.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/View of a River with Rowing Boats.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Paris/The Kingfisher.jpg,Paris,6
+/kaggle/input/van-gogh-paintings/Saint Remy/The Plough and the Harrow after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field with Cypresses.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Man is at Sea after Demont-Breton.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Noon Rest from Work after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Peasant Woman Cutting Straw after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital with Figure.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove Pale Blue Sky.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/L Arlesienne Madame Ginoux 5.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Pieta after Delacroix.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Iris.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Pine Trees with Figure in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Old Man in Sorrow On the Threshold of Eternity.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Evening The End of the Day after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Starry Night.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Still Life Vase with Irises.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Thresher after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Portrait of Madame Trabuc.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital 4.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Enclosed Field with Rising Sun.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Undergrowth with Ivy.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Two Diggers Among Trees.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Great Peacock Moth.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital 5.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field Behind Saint-Paul Hospital with a Reaper.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Two Peasants Digging.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field with Reaper and Sun.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Cottages Reminiscence of the North.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Trees in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Cypresses.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Cottages and Cypresses Reminiscence of the North.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Cypresses with Two Female Figures.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Mulberry Tree.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Landscape in the Neighbourhood of Saint-Remy.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Trees with Yellow Sky and Sun.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Les Peiroulets Ravine 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Blossoming Almond Tree.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The White Cottage Among the Olive Trees.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Enclosed Field with Ploughman.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Irises.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Poppies and Butterflies.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Trees in the Garden of Saint-Paul Hospital 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Pieta after Delacroix.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Mountains at Saint-Remy with Dark Cottage.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field Behind Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wild Roses.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Entrance to a Quarry near Saint-Remy.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Field with Poppies.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Landscape with Couple Walking and Crescent Moon.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Le Mont Gaussier with the Mas de Saint-Paul.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove Bright Blue Sky.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Roses and Beetle.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field with Cypresses at the Haute Galline Near Eygalieres.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field in Rain.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Road Menders 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Still Life Vase with Irises Against a Yellow Background.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Valley with Ploughman Seen from Above.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/At the Foot of the Mountains.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Morning Peasant Couple Going to Work.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Portrait of a Patient in Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Picking 3.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Shepherdess, The after Millet.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Road Menders.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Evening The Watch after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Half Figure of an Angel after Rembrandt.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Peasant Woman with a Rake after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Les Peiroulets Ravine 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Mountainous Landscape Behind Saint-Paul Hospital.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Sower, The after Millet.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Enclosed Wheat Field with Peasant.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Field with Two Rabbits.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Stone Bench in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/L Arlesienne Madame Ginoux 4.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Entrance to a Quarry.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Vincent s Bedroom in Arles.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Prisoners Exercising after Dore.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/A Corner in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Fields with Reaper at Sunrise.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Two Peasant Women Digging in Field with Snow.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Still Life Pink Roses in a Vase.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove Orange Sky.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Trees with the Alpilles in the Background.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove with Picking Figures.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/L Arlesienne Madame Ginoux 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Tree Trunks with Ivy.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Sower, The after Millet 2.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Self-Portrait 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Self-Portrait.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Les Peiroulets Ravine.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Reaper with Sickle after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Lilacs.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Landscape with Olive Tree and Mountains in the Background.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Sheaf-Binder, The after Millet.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Garden of Saint-Paul Hospital 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Good Samaritan after Delacroix.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Peasant Woman Binding Sheaves after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Trees Bright Blue Sky.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Trees in the Garden of Saint-Paul Hospital 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/A Road at Saint-Remy with Female Figure.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/L Arlesienne Madame Ginoux.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/View of the Church of Saint-Paul-de-Mausole.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Study of Pine Trees.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Two Poplars on a Road Through the Hills.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/L Arlesienne Madame Ginoux 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Pine Trees against a Red Sky with Setting Sun.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Woodcutter after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Walk Falling Leaves.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Sheep-Shearers, The after Millet.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wooden Sheds.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Grove 3.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Pine Trees and Dandelions in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Cypresses and Two Women.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Peasants Lifting Potatoes.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Picking.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/First Steps after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Thatched Cottages in the Sunshine Reminiscence of the North.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Still Life Vase with Roses.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Green Wheat Field 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Field with Ploughman and Mill.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Trees against a Slope of a Hill.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Field of Spring Wheat at Sunrise.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Evening Landscape with Rising Moon.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Trees.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Landscape with Trees and Figures.jpg,Saint Remy,7
+"/kaggle/input/van-gogh-paintings/Saint Remy/Portrait of Trabuc, an Attendant at Saint-Paul Hospital.jpg",Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Portrait of a Young Peasant.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Meadow in the Garden of Saint-Paul Hospital.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Spinner.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Drinkers.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Raising of Lazarus after Rembrandt.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Tree Trunks with Ivy 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Self-Portrait 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Road with Cypress and Star.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Olive Picking 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Reaper after Millet.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/The Bedroom.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/A Meadow in the Mountains Le Mas de Saint-Paul.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Green Wheat Fields.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Green Wheat Field with Cypress.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Saint Remy/Wheat Field with Cypresses 2.jpg,Saint Remy,7
+/kaggle/input/van-gogh-paintings/Arles/Landscape with Snow.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Langlois Bridge at Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Courtyard of the Hospital at Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Railway Carriages.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/La Berceuse Augustine Roulin 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Next painting.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Armand Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Two Thistles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Memory of the Garden at Etten.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Flowering Garden.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Les Alyscamps.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/L Arlesienne Madame Ginoux with Books.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/La Mousme, Sitting.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/La Berceuse Augustine Roulin 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 6.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Two Crabs.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Entrance to the Public Park in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Ploughed Field.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Flowering Garden with Path.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Two Red Herrings.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Madame Augustine Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Encampment of Gypsies with Caravans.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Ward in the Hospital in Arles.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Portrait of Milliet, Second Lieutenant of the Zouaves.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Twelve Sunflowers 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Baby Marcelle Roulin 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Almond Tree in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of a One-Eyed Man.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Fifteen Sunflowers.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Self-Portrait with Bandaged Ear.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Blossoming Almond Branch in a Glass.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Pair of Shoes.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Langlois Bridge at Arles with Women Washing.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Spectators in the Arena at Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Sower.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Old Woman of Arles, An.jpg",Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom, Bordered by Cypresses 2.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Poet s Garden.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Next painting 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Park at Arles with the Entrance Seen through the Trees.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Sunny Lawn in a Public Park.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Canal with Women Washing.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Seascape at Saintes-Maries 2.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Still Life with Oranges, Lemons and Blue Gloves.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 7.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Harvest in Provence.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard with Peach Trees in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Gleize Bridge over the Vigueirat Canal.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Zinnias.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Apricot Trees in Blossom 2.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom, Bordered by Cypresses.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Seascape at Saintes-Maries.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Starry Night Over the Rhone.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Tarascon Diligence.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Pork-Butcher s Shop Seen from a Window.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Wheat Fields with Stacks.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom with View of Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Blossoming Pear Tree.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/View of Arles with Trees in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Snowy Landscape with Arles in the Background.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Madame Roulin Rocking the Cradle La Berceuse.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 5.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Sower 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Red Vineyard.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Still Life Bottle, Lemons and Oranges.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life French Novels.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Wheat Field with Sheaves.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Camille Roulin 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Path Through a Field with Willows.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Peach Tree in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Arles View from the Wheat Fields.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Still Life Drawing Board, Pipe, Onions and Sealing-Wax.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Novel Reader.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Armand Roulin 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Avenue of Plane Trees near Arles Station.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Patience Escalier.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Willows at Sunset.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Majolica Jug with Wildflowers.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/View of Saintes-Maries.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The White Orchard.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Sower 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Doctor Felix Rey 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Pollard Willows.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Two Lovers Fragment.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Self-Portrait with Pipe and Straw Hat.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Clumps of Grass.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Fifteen Sunflowers 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Twelve Sunflowers.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Interior of the Restaurant Carrel in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Eugene Boch.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Artist s Mother.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Interior of a Restaurant in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Oleanders and Books.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Pink Peach Tree in Blossom Reminiscence of Mauve.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Seated Zouave.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Night Cafe in the Place Lamartine in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life with Basket and Six Oranges.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Oleanders.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Baby Marcelle Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Street in Saintes-Maries.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Potatoes in a Yellow Dish.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Old Mill.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Two White Butterflies.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Public Park at Arles.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Still Life Blue Enamel Coffeepot, Earthenware and Fruit.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Coal Barges 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Landscape Under a Stormy Sky.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Doctor Felix Rey.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Fifteen Sunflowers 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Vincent s Bedroom in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Wheat Field.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Pair of Leather Clogs.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Harvest at La Crau, with Montmajour in the Background.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Trunk of an Old Yew Tree.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Three White Cottages in Saintes-Maries.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Paul Gauguin Man in a Red Beret.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Paul Gauguin s Armchair.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Bridge at Trinquetaille.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/La Crau with Peach Trees in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom Plum Trees.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Langlois Bridge at Arles 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Mother Roulin with Her Baby.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/La Berceuse Augustine Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Self-Portrait with Bandaged Ear and Pipe.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Dance Hall in Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Farmhouse in Provence.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Lane in the Public Garden at Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Painter on His Way to Work.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Farmhouses in a Wheat Field Near Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Public Garden with Couple and Blue Fir Tree The Poet s Garden III.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Trinquetaille Bridge.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Rosebush in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Vincent s House in Arles The Yellow House.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Brothel.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Sower Outskirts of Arles in the Background.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Red Chestnuts in the Public Park at Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Rocks with Oak Tree.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Field of Yellow Flowers.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Quay with Men Unloading Sand Barges.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of Camille Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Zouave Half Length.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/La Berceuse Augustine Roulin 4.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard in Blossom 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 4.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Farmhouse in a Wheat Field.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Wheat Field with the Alpilles Foothills in the Background.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Orchard with Blossoming Apricot Trees.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Sower 4.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Fishing Boats on the Beach at Saintes-Maries.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Green Ears of Wheat.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/The Railway Bridge over Avenue Montmajour, Arles.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Thistles.jpg,Arles,1
+"/kaggle/input/van-gogh-paintings/Arles/Portrait of Patience Escalier, Shepherd in Provence.jpg",Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Haystacks in Provence.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Grass and Butterflies.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Langlois Bridge at Arles with Road Alongside the Canal.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Vincent s Chair with His Pipe.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Young Man with a Cap.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Les Alyscamps 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Three Sunflowers in a Vase.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Coal Barges.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Les Alyscamps 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Mother Roulin with Her Baby 2.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Girl with Ruffled Hair The Mudlark.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Les Alyscamps Falling Autumn Leaves.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin 8.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Garden Behind a House.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Bowl with Daisies.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Portrait of the Postman Joseph Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Blossoming Almond Branch in a Glass with a Book.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Self-Portrait Dedicated to Paul Gauguin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Wheat Stacks with Reaper.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A Lane near Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Smoker.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Bloaters on a Piece of Yellow Paper.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Still Life Vase with Five Sunflowers.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/A L Arlesienne Madame Ginoux with Gloves and Umbre.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Lovers The Poet s Garden IV.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Schoolboy Camille Roulin.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Sunset Wheat Fields Near Arles.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Baby Marcelle Roulin 3.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Apricot Trees in Blossom.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/The Green Vineyard.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/Crab on Its Back.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Arles/View of Arles with Irises in the Foreground.jpg,Arles,1
+/kaggle/input/van-gogh-paintings/Villege/Three Figures near a Canal with Windmill.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Beach at Scheveningen in Calm Weather.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Two Women in the Woods.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Lying Cow 2.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Footbridge across a Ditch.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Fisherman on the Beach.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Farm with Stacks of Peat.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Lying Cow.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/View of the Sea at Scheveningen.jpg,Villege,9
+"/kaggle/input/van-gogh-paintings/Villege/A Girl in the Street, Two Coaches in the Background.jpg",Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Cottages.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/The Sower study.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Dunes.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Two Women in the Moor.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Still Life with Beer Mug and Fruit.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Peat Boat with Two Figures.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Women Mending Nets in the Dunes.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Man Stooping with Stick or Spade.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Peasant Burning Weeds.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Farmhouses in Loosduinen near The Hague at Twilight.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Bulb Fields.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Landscape with a Church at Twilight.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Landscape with Dunes.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Dunes with Figures.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Still Life with Cabbage and Clogs.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Girl in White in the Woods.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Marshy Landscape.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/A Wind-Beaten Tree.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Girl in the Woods.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Cows in the Meadow.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Potato Digging Five Figures.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Farmhouses Among Trees.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Cluster of Old Houses with the New Church in The Hague.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Edge of a Wood.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Villege/Fisherman s Wife on the Beach.jpg,Villege,9
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape with Bridge across the Oise.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Woman with Folded Hands, Half-Length.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Peeling Potatoes near a Window.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman on her Deathbed.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Langlois Bridge at Arles.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Flowering Shrubs.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Entrance Hall of Saint-Paul Hospital.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Snowy Yard.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman with Kettle by the Fireplace.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Peasant Sitting by the Fireplace_Worn Out.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Bookseller Blok.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Peeling Potatoes.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Ramparts of Paris.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Two Women Talking to Each Other While Digging.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Woman at the Window, Knitting.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Four People on a Bench.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Harvest in Provence, at the Left Montmajour.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Woman with Wheeelbarrow.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Trees and Shrubs 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Sitting at the Fireside.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Haystacks near a Farm.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Digger.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Stone Bench in the Garden of the Asylum.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Public Soup Kitchen.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Shed with Sunflowers.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Bleaching Ground.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Flowering Shrubs 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Moulin de Blute-Fin.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Group of Farmhouses.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Heath with a Wheelbarrow.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Water Mill at Gennep.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Three Woodcutters Walking.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Mending Stockings.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Woman.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Corridor of Saint-Paul Asylum in Saint-Remy.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Pollard Willow.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Potato Market.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Sower.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Sewing 4.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Sewing.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Country Lane with Trees.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/People Strolling on the Beach.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Sewing 3.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Poor and Money.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Ramparts of Paris 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Churning Butter.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Peeling Potatoes near a Window 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman by the Fireplace.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Woman with Shawl, Umbrella and Basket.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape with a Farm.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Barren Field.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Wheat Field with a Stack of Wheat or Hay.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver Facing Right.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Man with Winnow.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Standing Woman, Half-Length.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Woman 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Sale of Building Scrap.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Drawbridge in Nieuw-Amsterdam.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Old Vineyard with Peasant Woman.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Bench with Three Persons.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Woman Sien with Baby on her Lap, Half-Figure.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Grinding Coffee.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Peat Bog.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman with White Shawl in a Wood.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver 4.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Miners in the Snow Winter.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Man Winding Yarn.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Young Woman Sewing.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Peasant Woman, Head.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Rooftops.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape with a Stack of Peat and Farmhouses.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/View of The Hague with the New Church.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Weed Burner, Sitting on a Wheelbarrow with his Wife.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Girl with Black Cap Sitting on the Ground.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Peasant Man and Woman, Digging.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Iron Mill in The Hague.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Parsonage Garden at Nuenen with Pond and Figures.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Farmer Sitting at the Fireside, Reading.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Waiting Room.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Weaver, Arranging Threads.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Church Pew with Worshippers.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Women Miners.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Night Cafe in Arles.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Man with Broom.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Peasant Sitting by the Fireplace_Worn Out 2.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Weaver Facing Right, Interior with One Window and High Chair.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Reeling Yarn 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Bench with Four Persons and Baby.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Peasant Woman Sowing with a Basket.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Woman Knitting.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Interior with a Weaver Facing Right.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Meadow, In the Background New Church.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Women and Other People Under Umbrellas.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Windmills near Dordrecht.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Pollard Willow 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman by a Hearth.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Fishing Boats on the Beach.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver 3.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Gate in the Paris Ramparts.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Reeling Yarn.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Sien Nursing Baby.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/View of Scheveningen.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Pink Peach Trees.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Digger 3.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Lumber Sale.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman with Dark Cap Sien s Mother.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Trees in the Garden of the Asylum.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Vincent s House in Arles The Yellow House.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Sewing 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Boy Cutting Grass with a Sickle.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Orchard in Blossom with Two Figures Spring.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman with a Broom 2.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Woman with Shawl, Sewing.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Zouave Half Length.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Beach with People Walking and Boats.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Peasant Girl Raking.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Harvest Landscape.jpg,Watercolors,10
+"/kaggle/input/van-gogh-paintings/Watercolors/Wood Gatherer, Figure Study.jpg",Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Digger 2.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Coalmine in the Borinage.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Mill of Alphonse Daudet at Fontevielle.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman Spreading Out Laundry on a Field.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Four Men Cutting Wood.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Entrance to the Moulin de la Galette.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Breton Women after Emile Bernard.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/The Landscape in Dr.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Stone Steps in the Garden of the Asylum.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Farmer Leaning on his Spade.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Scheveningen Woman Sewing.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Lower Part of the Windmill De Laakmolen.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Road Running Beside the Paris Ramparts.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Mother at the Cradle and Child Sitting on the Floor.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Fish-Drying Barn.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Sower with Basket.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Meadows near Rijswijk.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Trees and Shrubs.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/A Sunday in Eindhoven.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Window of Vincent s Studio at the Asylum.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Meadows near Rijswijk and the Schenkweg.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Woman with a Broom.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Study of a Tree.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Weaver Facing Left.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Farmhouse.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Outskirts of Paris near Montmartre.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Garden with Arbor.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Watercolors/Landscape with Cottages.jpg,Watercolors,10
+/kaggle/input/van-gogh-paintings/Sketches in letters/Stooping Woman in Landscape.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Farmhouse with Wheat Field along a Road and Field with Flowers.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Beach and Sea.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Old Man Reeling Yarn.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Scheveningen Woman Sewing 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Interior with Woman Sewing.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Woody Landscape After the Rain.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Snowy Yard.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Sitting by the Fireplace_Worn Out.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Memory of the Garden at Etten.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Garbage Dump 2.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Woman, Two Heads.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sculpture and Still Life with Cabbage and Clogs.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Woman at the Window, Knitting.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Three Persons Sitting at the Window.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Honesty in a Vase.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Man Putting Potatoes in a Sack.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Digger.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Wheat Fields 3.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Public Soup Kitchen.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Bleaching Ground.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Group of People on the Beach with Fishing Boat Arriving.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Nude Woman, Half-Length_The Great Lady.jpg",Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Woman, Seen against the Window, Two Heads.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Miners in the Snow at Dawn.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Gardener with a Wheelbarrow.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Road with Pollard Willows 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Field of Grass with Dandelions and Tree Trunks.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Pollard Willow.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sower and Trunk of an Old Yew Tree.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Still Life with Coffee Pot.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sower with Hand in Sack.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Public Soup Kitchen 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Daubigny s Garden with Black Cat.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Newly Mowed Lawn with Weeping Tree.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Public Garden with a Couple and a Blue Fir Tree.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Cypresses.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Still Life with Coffee Pot 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Woman Reading a Novel.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Girl Kneeling in Front of a Cradle.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Garbage Dump.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Two Peasant Women, Digging.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Field in a Thunderstorm_Digger and Figure of a Woman.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Parsonage with Flowering Trees.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Potato Grubbers, Four Figures.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Man Pulling a Harrow.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Old Woman Seen from Behind.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Beach and Boats.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Breakwater.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Enclosed Field with Ploughman.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/A Lane of Cypresses with a Couple Walking.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Garden with Flowers.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Tarascon Stagecoach.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Doctor Gachet Sitting at a Table with Books and a Glass with Sprigs of Foxglove.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Woman, Head.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Rooftops.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sunset Over a Meadow.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Five Persons at a Meal.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Orphans.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Church Pew with Worshippers.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Path to the Beach.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Street in Saintes-Maries.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Bench with Four Persons and Baby.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Man and Woman Planting Potatoes.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Raising of Lazarus.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Starry Night.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Viaduct and the Trinquetaille Bridge.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Scheveningen Woman Knitting.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Wheat Fields 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/People in the Studio.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/State Lottery Office.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Church in Nuenen, with One Figure.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Vincent s Bedroom in Arles.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Burning Weeds, and Farmhouse at Night.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/La Crau with Peach Trees in Bloom.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Wheat Field with Setting Sun.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Fishing Boats on the Beach.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Cemetery.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Orchard Surrounded by Cypresses.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Gardener near a Gnarled Apple Tree.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Plowman with Stooping Woman, and a Little Farmhouse with Piles of Peat.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Marguerite Gachet at the Piano.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Death s-Head Moth.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Couple Walking between Rows of Trees.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Drawbridge with Walking Couple.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Tarascon Stagecoach 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Orchard and House with Orange Roof.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Cottages with Thatched Roofs and Figures.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Quay with Men Unloading Sand Barges.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Trees with Ivy.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/L Arlesienne Madame Ginoux.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Plowman with Two Women.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Girl with Straw Hat, Sitting in the Wheat.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Wheat Fields.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Beach with People Walking and Boats.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Orchard in Bloom with View of Arles.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sower with Setting Sun 3.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Round Clipped Shrub in the Public Garden.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Vincent s Bedroom.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Vincent s House.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Digger 2.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Girl near the Stove, Grinding Coffee.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Bird s Nest.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Weed Burner, Sitting on a Wheelbarrow with his Wife_Three Persons Returning from the Potato Field.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Man in a Village Inn.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Women Working in the Peat.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Farmer Leaning on his Spade.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Scheveningen Woman Sewing.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Gordina de Groot, Head.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Lane with Poplars.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Schenkweg.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sower with Setting Sun.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/The Seine with the Pont de Clichy.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Little Blossoming Pear Tree.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/A Girl in a Wood.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Orchard and House with Orange Roof 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Scheveningen Woman Standing.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Road with Pollard Willows.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Sower with Setting Sun 2.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Road with Men Walking, Carriage, Cypress, Star, and Crescent Moon.jpg",Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Workman beside a Mound of Peat, and a Peat Boat with Two Figures.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Road with Pollard Willows_Farmhouses on a Road with Trees.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Fishing Boats at Sea, Landscape with Edge of a Road, and a Farm along a Road.jpg",Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Woman near a Window twice , Man with Winnow, Sower, and Woman with Broom.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Weaver Facing Left.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Fishing Boats on the Beach 2.jpg,Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Woman Digging.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Sketches in letters/Peasant Woman, Seen against the Window, Head and Whole Figure.jpg",Sketches in letters,8
+/kaggle/input/van-gogh-paintings/Sketches in letters/Wheat Harvest.jpg,Sketches in letters,8
+"/kaggle/input/van-gogh-paintings/Face/The Ravoux Inn Auvers-sur-Oise, France.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/Head of an Old Woman with White Cap The Midwife.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Theo van Gogh, the brother of Vincent 3.jpg",Face,4
+"/kaggle/input/van-gogh-paintings/Face/Vincent van Gogh, age 13.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/The painter Emile Bernard and Vincent van Gogh seen from the back have a good time discussing color insinde a black-and-wite photo.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Vincent van Gogh on his deathbead. His friend and doctor Paul Gachet made this excellent drawing.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Theo van Gogh, the brother of Vincent 2.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/The mother of Vincent van Gogh was a very talented painter.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Johanna van Gogh-Bonger, Vincent van Goghs sister-in-law.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/Backyards of Old Houses in Antwerp in the Snow.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Vincents brother Theo died one year after him. They were buried side by side as equals. I do not know, why Theos wife Johanna, when her time came, was nor buried next to them.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/This card was sent to the friends of Vincent.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Anna Cornelia van Gogh.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/This was Vincents room in the asylum in Saint Remy.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Skull with Burning Cigarette.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Anna Cornelia van Gogh 2.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Toulouse-Lautrec, Portrait of Vincent van Gogh.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/Portrait of an Old Man with Beard.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Head of a Woman with her Hair Loose.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Vincent van Gogh, age 19.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/Anna Cornelia van Gogh 3.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Portrait of a Woman with Red Ribbon.jpg,Face,4
+/kaggle/input/van-gogh-paintings/Face/Theodorus van Gogh.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Theo van Gogh, the brother of Vincent.jpg",Face,4
+"/kaggle/input/van-gogh-paintings/Face/Toulouse-Lautrec, Portrait of Vincent van Gogh 2.jpg",Face,4
+"/kaggle/input/van-gogh-paintings/Face/Johanna Bonger, Vincent van Goghs sister-in-law.jpg",Face,4
+/kaggle/input/van-gogh-paintings/Face/Portrait of Woman in Blue.jpg,Face,4
+"/kaggle/input/van-gogh-paintings/Face/Theo van Gogh, the brother of Vincent 4.jpg",Face,4
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man, Sitting with a Girl.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cypresses with Four People Working in the Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Venus in a Top Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien under Umbrella with Girl.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Two Groups of Peasants at a Meal.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Arles View from the Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Couple Dancing.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Man with Pipe and Eye Bandage, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carriage Drawn by a Horse.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Left Hand 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Numerous Figure Sketches.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hands 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/View of Paris, with the Htel de Ville and the Tour-Saint-Jacques.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Women on a Quay.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with a Church.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Shepherd with Flock near a Little Church at Zweeloo.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 33.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 7.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Courtyard of the Hospital at Arles.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man Reeling Yarn.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Shawl over her Head, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Montmajour.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking on the Beach.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with a Tree in the Foreground.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Couple Arm in Arm and Other Figures, with a Windmill in the Background.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Nursery on Schenkweg.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carpenter s Yard and Laundry 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap and Stick.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with the Wall of a Farm.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Shawl over her Head, Seen from the Side 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Peasants.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Silhouette of a Man with a Rake.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Pitching Wheat or Hay.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies of Donkey Carts.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Newly Mowed Lawn with Weeping Tree 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Cypresses.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Girl, Half-Figure 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Snowy Yard.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Potato Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Man with a Beard 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Boy with Broad-Brimmed Hat.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien s Mother s House, Closer View.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/The Old Peasant Patience Escalier with Walking Stick, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Walking Couple.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Barn with Moss-Grown Roof.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Male Nude.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands with a Hearth Shovel.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Kettle Over a Fire, and a Cottage by Night.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lap with Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Sheaves 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Entrance Gate to a Farm with Haystacks.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study Sheet with Seven Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Blacksmith Shop.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Woman 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Thunderstorm.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior of a Farm with Two Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Bowler.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Starry Night 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Fishing Boats at.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Het Steen 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Sheet with Sketches.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Country Road.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man possibly Theo van Gogh.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Wheat Field with Reaper.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Figure of a Woman with Unfinished Chair.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping with a Spade, Digging Up Carrots.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/La Mousme, Sitting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Gleaning.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Group of Pine Trees near a House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Guinguette.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of a Fruit Tree.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of Cows and Children.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Seen from the Back and Three Hands Holding a Stick.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Gardens on Montmartre and the Blute-Fin Windmill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 12.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Peeling Potatoes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Street The Paddemoes.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Carrying a Sheaf of Grain.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Shawl.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Digging 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field with a Sower in the Rain 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Female Nude, Seated 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Man and a Woman Seen from the Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Arums.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Churchyard in Winter.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Harvest Landscape 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Vicarage at Nuenen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies Figure The Enclosure Wall of Saint Paul s Hospital and Others.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Garden with Flowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant with a Chopping Knife.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Parsonage Garden at Dusk.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Girl with Shawl, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Boy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mangle with Two Women and a Man.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Plain of La Crau.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Kettle, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hand.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Still Life Can, Books, Wineglass, Bread and Arum Sketch of Two Women and a Girl.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orchard with Arles in the Background.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sewing 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden of the Asylum.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Drinking Coffee.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheatfield with a Stook and a Mill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands and a Woman s Head.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Backyards.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/View of a River, Quay, and Bridge.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cradle.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Oxcart in the Snow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lawn with Weeping Tree.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Shawl over her Head, Seen from the Side.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking on a Street in the Evening.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Starry Night.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Parsonage Garden in the Snow with Three Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape in Stormy Weather.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Behind the Hedges.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking in Eindhoven 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Pollard Willows.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with a Baby in his Arms.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden with Sunflowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger in a Potato Field February.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back 5.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Girl Seen from the Front.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Haystacks near a Farm.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Scythe in Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Horse and Carriage.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman Sitting on a Basket, Sewing.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/St. Martin s Church at Tongelre.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Parsonage Garden in the Snow.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Standing near a Ditch or Pool.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Le Moulin de la Galette.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Boy with Spade.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Building in Eindhoven the _Weigh-House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Broom 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman on a Road with Pollard Willows.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Studies of a Cottage.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Discus Thrower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages and Trees 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Fishing Boat at Sea.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of a Hen and a Cock.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Public Soup Kitchen.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Man, Standing, Reading a Book.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Barn Owl Viewed from the Side.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Bending Over.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bank of the Rhone at Arles.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Fishing Boat at Sea 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Women Working in Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol and Sketches of Venus.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Walking.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Dead Leaf and Pod.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fisherman in Jacket with Upturned Collar.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden with Flowers 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping between Sheaves of Grain.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Park at Arles.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Dance-hall.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 17.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of a Digger and Other Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Meadow with Flowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wild Vegetation in the Mountains.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Man, Bareheaded 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Saintes-Maries with Cemetery.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Sower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of a Woman Standing Two Heads Another Figure.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hand 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Branch with Leaves.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Figures in a Winter Landscape.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman s Head.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Digging.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Little Stream Surrounded by Bushes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with a Tree in the Foreground 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Tree with Ivy in the Asylum Garden.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Swift.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking in Front of Snow-Covered Cottage 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Chair near the Stove.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lane with Trees and One Figure.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 18.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking in Front of the Palais du Luxembourg.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with White Cloth around her Head, Sitting on a Bench.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Thistles Along the Roadside.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sheet with Figures at a Table, a Sower, Clogs, etc..jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat and Umbrella Under his Arm.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Parsonage Garden 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees Seen against the Wall of the Asylum 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies for Figures Carrying Bundles of Wood.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap, Head.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Carrying Wheat in Her Apron.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Men on a Road with Pine Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Violinist Seen from the Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Woman 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Breaking Up the Soil.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Man, Bareheaded.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Winter Garden.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Road with Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Houses and Chestnut Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheaves of Wheat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Male Nude Seen from the Front.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Prayer Before the Meal.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Baby.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Arles in the Background.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Olive Trees in a Mountain Landscape.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Basket on his Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Stooks and a Peasant Stacking Sheaves.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man, Wearing a Blouse, with Broom and Pipe.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Young Man with a Broom.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field with a Sower in the Rain.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Alphonse Daudet s Windmill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower after Millet.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back 3.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of Two Women.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mantelpiece with Chair.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with a Little Bridge.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Hat, Coat and Pleated Dress.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower with Hand in Sack.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Sitting by the Stove The Pauper.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torn-Up Street with Diggers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Lane in the Public Garden with Benches.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien, Sewing, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Sower and a Man with a Spade.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Sewing.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Saw Mill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Four Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 20.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Public Garden with Benches.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Newly Mowed Lawn with Weeping Tree.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Joseph Roulin, Three-Quarter-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with Cap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Het Steen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Willows and Sun Shining Through the Clouds.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Grote Markt.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woodcutter.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmhouse with Barn and Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Strollers and Onlookers at a Place of Entertainment.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cypresses.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Broom.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Olive Orchard.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with a Hat, a Perspective Frame, and Other Sketches.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peat Diggers in the Dunes 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Road with Pollard Willows and Man with Broom.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Holding Cup.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies of a Dead Sparrow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien with Child on her Lap.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Two Peasant Women, Digging.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Top Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Diggers and Road with Cottages.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Praying.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Numerous Sketches of Working People.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 17.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pic0018_1024.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back 4.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Baby 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Planting Beets 2.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Man, Drawing or Writing.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Woman Picking Up a Stick in Front of Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Working People 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 12.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Carpenter with Apron.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Male Nude Seen from the Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Feet 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man on a Bench.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Kneeling Man, Planting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Restaurant de la Sirene at Asnieres.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Clarinetist and Piccolo Player.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Small House on a Road with Pollard Willows.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of the Painting The Potato Eaters.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Nag.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Chair and Sketch of a Hand.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Cottages in Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Bare Tree.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 4.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 7.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Windmill.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Young Man, Sitting with a Cup in his Hand, Half-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Cutting Bread 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Skeleton.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Long Overcoat Cleaning Boots.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Shelling Peas.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sitting near the Fireplace 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 19.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Hand with a Pot, the Knob of a Chair and a Hunk of Bread.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in the Garden of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Peeling Potatoes.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Planting Beets.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Jardin du Luxembourg.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Chopping 2.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Potato Grubbers, Four Figures.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with Straw Hat.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Sweeping.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hill with Bushes.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Plaster Torso of a Woman, Seen from the Side.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Cart and Two Rabbits.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages with a Woman Working in the Foreground 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Saintes-Maries with Church and Ramparts.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver Standing in Front of a Loom.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Women.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Planting Potatoes.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Bog-Oak Trunks.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien, Peeling Potatoes.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Fork in a Winter Landscape.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Zouave, Half-Figure.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Factory.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of the Paris Ramparts.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Portrait of a Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 8.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Girl Carrying a Loaf of Bread.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Cypresses.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Peasant with Cap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Baby Crawling.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Cottage and Two Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden in the Snow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fields with Poppies.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Fishing Boats at 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Sheaves and Arles in the Background 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bending Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Women Picking Olives.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cypresses 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bench in a Wood.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bird s-Eye View of Saint-Remy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sale of Building Scrap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/City View.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mountain Landscape Seen across the Walls 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Long Overcoat and Umbrella, Seen from the Back 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hands.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman, Half-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Sheaves.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Apartment Blocks and Miscellaneous Studies.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Drinking Coffee 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/St. Catharina s Church at Eindhoven.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of an Old Man.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands and Two Arms.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ruins of Montmajour.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Funeral in the Snow near the Old Tower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands with a Stick.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Man, Standing with Arms Folded.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Diggers and Other Figures 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Peasants Eating and Other Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Montmartre.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/The Cafe Terrace on the Place du Forum, Arles, at Night.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Joseph Roulin, Sitting in a Cane Chair, Three-Quarter-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Female Nude.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Young Man, Bareheaded.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man and Woman Sharing a Meal.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping to the Left.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lane of Poplars.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fish-Drying Barn, Seen From a Height.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Two Women, Kneeling.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Child on Her Lap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Stooping in front of Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Plaster Statuette 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Knee 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Baby on her Lap, Half-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees near the Wall of the Asylum 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Figure Sketches.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/La Mousme, Sitting 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 24.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Portrait of Patience Escalier.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden with Flowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Peasant Working.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Paris with Notre-Dame and the Pantheon.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Male and Seated Female Nudes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Couple Walking.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver 4.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Sou wester, Sitting with Pipe 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Group of Figures on the Beach.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Row of Cottages in Saintes-Maries.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Studies of the Interior of a Cottage, and a Sketch of The Potato Eaters.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Girl Sitting, Knitting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Gasworks.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with White Bonnet Sien s Mother , Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Roofs of Paris and Notre-Dame.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Langlois Bridge at Arles Seen from the Road.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Two Sowers and Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with a Sack of Wood.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Path and Pollard Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Young Man.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Preparing a Meal.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Hat, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmer Sitting at the Fireplace.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Young Man 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Men with a Four-Wheeled Wagon.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmers Working in the Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Two Sowers and Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bakery.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Terrace of the Tuileries with People Walking.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Zouave Sitting, Whole Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Female Nude Seen from the Side.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sand Diggers in Dekkersduin near The Hague.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Umbrella, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Trees.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Long Overcoat, Glass and Handkerchief.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/French Peasant Woman Suckling Her Baby after Dalou.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Right Arm and Shoulder.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Reaper.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man, Standing.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Houses with Thatched Roofs.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Girl Kneeling in Front of a Bucket.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Five Persons at a Meal.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmhouse at Night.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape near Montmajour with Train.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Couple Walking Arm in Arm with a Child in the Rain.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Trees 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carpenter s Yard and Laundry.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Feeding Chickens.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field of Grass with a Round Clipped Shrub.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Shawl 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Girl Standing, Knitting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with a Few Sketches of Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Mower and a Stooping Peasant Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 11.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hind Legs of a Horse.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap, Half-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Group of Pine Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Group of Cottages with Two Women in the Foreground.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Row of Bare Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Miners.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of People Sitting on Chairs.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 7.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pianist.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches for the Drawing of an Auction.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Hands 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Girl with Pinafore, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking in Front of Snow-Covered Cottage.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/En Route.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Pianist and a Violinist.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Restaurant Menu.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Silhouette of a Peasant Woman Digging Carrots.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Five Men and a Child in the Snow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 13.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Barred Windows.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Lifting Potatoes 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Woman Walking.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of the Old Tower and Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Male Nude Seen from the Front 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Female Nude, Seated.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Half-Figure 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheatfield with Reaper and Peasant Woman Binding Sheaves.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Walking Her Dog A La Villette.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/La Roubine du Roi with Washerwomen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Pine Tree and Cypresses in the Garden of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Garden of the Asylum and Tree Trunks and a Stone Bench.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Churchyard in the Rain.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior of a Farm with Figures at the Fireside.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Street in Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Reeling Yarn 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Drawbridge in Arles.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Couple Walking with a Child.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man Talking with Woman Sien.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with the Oise.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sand Diggers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Nursery on Schenkweg 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with Her Left Arm Raised.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three People Sharing a Meal.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 7.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Binding a Sheaf of Grain.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ploughman in the Fields near Arles.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pollard Birches.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 10.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Flowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape in Drente.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in Front of the Wall of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Shawl 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man Holding Top Hat in his Hand 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Blind Man Sitting in Interior.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 14.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Man and Woman Planting Potatoes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap and Walking Stick.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Man Seen from the Back.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Girl, Half-Figure.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Digging.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 3.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man Holding Top Hat in his Hand.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant with a Fork.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Donkey Cart with Boy and Scheveningen Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Binding Sheaves.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Tossing Hay, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Boys near a Cart_The Dustman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages and Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Bare Treetop in the Garden of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of Peasant Plowing with Horses.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Pinetrees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with a Weaver Facing Right.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 22.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Studies of a Seated Girl, L Ecorche and Venus.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man, Wearing a Blouse, Sitting with Pipe.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Reaper 4.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman Sewing, with a Girl.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman, Sitting by the Fire, Peeling Potatoes.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Sou wester, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Girl with a Shawl.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Sowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Plaster Torso of a Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Men Walking in a Landscape with Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Trees and Mower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Part of a Portrait of Anthon van Rappard.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Snowy Landscape with the Old Tower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Feet.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Church in Nuenen, with One Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Le Moulin de la Galette 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Picking Up a Sheaf of Grain.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of a Cottage and Figures 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Workman with Spade, Sitting near the Window.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman in Dark Dress, Walking.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees Seen against the Wall of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mask of an Egyptian Mummy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Barn Owl Viewed from the Front.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap, Eating.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Old Tower in the Snow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees near the Wall of the Asylum 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman by a Hearth.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Setting Sun.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 8.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Girl.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of an Eroded Garden-Wall Ornament 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Weather-Beaten Pine Tree.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman in a Dark Dress Sien s Mother.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien with Umbrella and Prayer Book.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Six Sketches of Figures, Among Others a Man Sowing Wheat.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man Reading.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus and a Landscape.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Male Nude Seen from the Front 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower with Hand in Sack 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Eating from a Plate.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Path between Pine Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Reeling Yarn.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Entrance to the Pawn Bank, The Hague.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Self-Portrait with Cap 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with a Top Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Fisherman with a Fringe of Beard and a Sou wester.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with People Sitting on Chairs.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Men in Front of the Counter in a Cafe.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Portrait possibly of Willemien van Gogh.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien Nursing Baby.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Foot.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower Facing Left.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman at the Washtub and Peasant Woman Hanging Up the Laundry.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Cutting Bread.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Young Man with a Pipe.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Pitching Wheat or Hay 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Entrance to the Old Tower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of the Paris Ramparts 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Factory.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/La Crau seen from Montmajour.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies of a Man Digging and a Landscape with Cypresses.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Churchyard in Winter 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 8.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Diggers and Other Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Park with Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Winding Yarn.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/L Ecorche.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study for Reclining Female Nude.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Self-portrait.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man with a Stick.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bent Figure of a Woman.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Peasant Woman, Bareheaded.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sewing 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study for Woman Sitting by a Cradle.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field behind Saint-Paul Hospital.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Sou wester, Pipe and Coal-pan.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Stooping and Gleaning.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees along a Road to a House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Sitting on a Basket with Head in Hands 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Reeling Yarn.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Village Street, Sketch.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with Dark Cap Sien s Mother.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man Drinking Coffee.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman by a Hearth 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages with a Woman Working in the Foreground.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Sitting by the Fire.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Man with a Moustache and Cap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hand with Bowl and a Cat.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Walking with a Wheelbarrow.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Death s-Head Moth.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bush in the Park at Arles The Poet s Garden II.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Motifs of a Mountain Landscape behind the Walls.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman with Her Hair Loose.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat and Hands Crossed.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Baby in a Carriage.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Treetop Seen against the Wall of the Asylum.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Hat, Half-Length.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lamp in front of a Window.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Standing.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Digging 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Peasant Women Working in a Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peat Diggers in the Dunes.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sketches of a Man with a Ladder, Other Figures, and a Cemetery.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Public Garden with a Corner of the Yellow House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Walking Woman and Walking Man.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien Pregnant, Walking with Older Woman.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Stocky Man.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Marsh with Water Lillies.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Soup Distribution in a Public Soup Kitchen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheatfield with Stooks and a Mill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Sheaves and a Windmill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ploughman and Three Women.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Plate with Cutlery and a Kettle.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mountain Landscape Seen across the Walls.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Carrying Peat.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 9.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Portrait of Pere Tanguy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 5.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of Two Peasants 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Female Nude Seen from the Front.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Kneeling, Possibly Digging Up Carrots.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Working People.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Vincent s House in Arles The Yellow House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 7.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Blossoming Branches.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fish-Drying Barn 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Sewing 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Left Hand.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Plaster Statuette.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carpenter.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Girl and Venus.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Nude Woman Squatting Over a Basin.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Kneeling with Chopper.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Tree against Clouds with Colour Annotations.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Snowy Landscape with Stooping Woman 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Rocks with Oak Tree.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver with Other Figures in Front of Loom.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 14.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with a Sower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Street in Saintes-Maries 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Olive Trees, Montmajour.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Avenue of Poplars.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Double-Bass Player.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ditch along the Schenkweg.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Winter Landscape with Hut and Wood Gatherer.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Donkey.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Working with a Long Stick.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Scythe in Wheat Field and Other Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Road with Telegraph Pole and Crane.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hill with the Ruins of Montmajour.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Loading a Cart.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bridge near the Schenkweg.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Vicarage at Nuenen 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Public Garden with People Walking in the Rain.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Quay with Men Unloading Sand Barges.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Stooping Woman with Net.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages in Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with a Church 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in the Fen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with Spade.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hand 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman with a Bucket.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Windmills at Montmartre.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Male Torso and Study for Portrait of a Woman with Flowers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Fisherman with a Sou wester 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat and Umbrella Looking at his Watch.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Sitting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Many Sketches of Figures.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Two Peasant Women, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Sitting on a Basket with Head in Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Miners Women Carrying Sacks The Bearers of the Burden.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Knee.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Field with Houses under a Sky with Sun Disk.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Trees with Ivy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Trees 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Couple Out for a Stroll.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 15.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lap with Hands and a Bowl.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Bridge and Houses on the Corner of Herengracht-Prinsessegracht, The Hague.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 11.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Woman with a Baby in her Lap.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Digging Up Potatoes.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man and Boy Sitting under a Roof.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man in a Tail-coat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hands with a Stick.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 16.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Writing Facing Left.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Two Women Doing Laundry.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman at the Washtub.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man Warming Himself.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Boy, Digging.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Van Stolkpark.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Four Swifts with Landscape Sketches.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 10.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Peasants at a Meal.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in Front of the Wall of the Asylum 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Unfinished Sketch of an Interior with a Pan above the Fire.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/L Ecorche and Borghese Gladiator.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Three Hands, Two with Knives.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Sheaves and Arles in the Background.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/La Mousme, Half-Figure.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Man, Sitting, Reading a Book.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Women in a Balcony Box.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Houses on Schenkweg where Van Gogh Lived.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Beach, Sea, and Fishing Boats.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Previous self-portrait.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Windmills at Montmartre 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Drawbridge with Lady with Parasol.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Four People Sharing a Meal.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Sou wester, Head 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sorrow 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back 6.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 18.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Hands and Several Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees Seen against the Wall of the Asylum 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Stooping and Gleaning 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Enclosed Field 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with Wheelbarrow at Night.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Trees and a Stone Bench in the Garden of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Public Garden with Fence.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Cicadas.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Window in the Bataille Restaurant.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Marsh.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Snow-Covered Cottages, a Couple with a Child, and Other Walkers.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Lady with Striped Dress and Hat and of Another Lady, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View from the Apartment in the Rue Lepic.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Hut in the Camargue.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/View of Arles from a Hill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Town Hall at Auvers.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Donkey.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Female Nude Seen from the Back 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmers Digging and Cottages.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Chopping.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fishing Boats on the Beach at Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with the Oise 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ploughman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ditch.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Walking Stick, and Little Sketch of the Same Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Heads Man with Beard and Hat Peasant with Cap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Harvest Landscape.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Windmill at Montmartre.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sewing 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Child and Woman Pouring Coffee.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Before the Hearth.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 10.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Farmhouse with Wheat Field along a Road.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Carpenter, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Four Men on a Road with Pine Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Road to Tarascon 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Park View.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sorrowing Woman.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man, Bareheaded, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Shawl 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Fishing Boats at 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Digging, Seen from the Side.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol 4.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien Nursing Baby, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Stooks and a Mill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Woman 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sorrow.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 4.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Working, Lower Part of Drawing.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Four Hands, Two Holding Bowls.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of Diggers and Other Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Angelus.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Potato Field in the Dunes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Boulevard de Clichy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Donkey and Cart.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Young Man with a Pipe.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Girl Standing.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bench with Four Persons.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sailing Boat on the Seine at Asnieres.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sun Disk above a Path between Shrubs.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Venus.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mower after Millet.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 9.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Saw.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sale of Building Scrap 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Lifting Potatoes.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Trees in the Garden.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Reaper 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mask of an Egyptian Mummy 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man and Woman Seen from the Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower 5.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Digging 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man with Cap or Lithographer s Shade.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Parsonage Garden.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Lifting Beet.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Digging.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Woman s Legs.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman, Sitting by the Fire, Peeling Potatoes Sketch of a Second Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Chair.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sewing 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Haystacks near a Farm 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Nude after Bargues.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Sitting with a Glass in His Hand.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Daughter of Jacob Meyer, The after Holbein.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Steamer with Several People.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol 5.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien, Sewing, Half-Figure 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 6.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Three Hands, Two Holding Forks.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien s Mother s House.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sewing.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 5.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Houses among Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Coal Shoveler.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Venus 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Lady with Checked Dress and Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Heads of Men.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 15.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Houses among Trees with a Figure.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man Feeding Chickens or Sowing.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Canal with Bridge and Women Washing.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of an Eroded Garden-Wall Ornament.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 5.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/A Corner of the Asylum and the Garden with a Heavy, Sawn-Off Tree.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Standing Female Nude Seen from the Back.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Venus de Milo.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Woman with a Shawl and a Walking-Stick.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Tiled Roof with Chimneys and Church Tower.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Churchyard in the Rain 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Studies.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Village Street.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Houses among Trees and a Figure.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees near the Wall of the Asylum.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Working in Wheat Field.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Head of a Girl, Bareheaded, and Head of a Man with Beard and Cap.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A Square in Paris.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 23.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Hands 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottages with Three Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Studies of Three Peasants and a Head.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower with Setting Sun.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Studies of a Woman with a Shawl.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Clock, Clog with Cutlery and a Spoon Rack.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Women Working in Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Landscape with Factories.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Bent Figure of a Woman Sien.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mask of an Egyptian Mummy 3.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Digging 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Portrait of the Postman Joseph Roulin.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman on her Deathbed, Head after a 17th century painting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cypresses with Two Women in the Foreground.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with her Hair Loose, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Hands 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Scheveningen Road.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fish-Drying Barn.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 6.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sand Diggers in Dekkersduin near The Hague 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Hen.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Man with Rake.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Ruins of Montmajour 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Hand with a Stick, and Four People Sharing a Meal.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Olive Trees in a Mountain Landscape 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Young Slave.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carriage and Two Figures on a Road.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Cottage.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Torso of Venus 11.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Girl Kneeling.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Station in The Hague, formerly called Rijnspoor Station and later Hollandse Spoor Station.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Idol 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant with a Stick.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower with Basket.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Diggers in Torn-Up Street.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Girl Kneeling by a Cradle.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping with Spade, Possibly Digging Up Carrots.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien with Cigar Sitting on the Floor near Stove.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Dying Slave and Figures at a Table.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Gypsies at Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sower with Setting Sun 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Fisherman with Sou wester, Sitting with Pipe.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 8.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Study of Two Peasants.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant with Sickle, Seen from the Back 2.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Female Nude, Standing.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Women Working in the Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Spire of the Church of Our Lady.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in Front of the Wall of the Asylum 3.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior with Peasant Woman Sitting near the Fireplace.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with Shawl over her Hair, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with a Digger and a Dog.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Man 6.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of Women in a Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sun over Walled Wheat Field.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Figures and Hands.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with Sketches of Figures.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Woman with White Bonnet Sien s Mother , Head 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a House Two Lovers.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat, Standing near the Stove, Seen from the Back.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Portrait of Vincent van Gogh, the Artist s Grandfather.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Sitting with Chin in Hand.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 21.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Rhone with Boats and a Bridge.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of Heads.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Sowers 2.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Umbrella, Seen from the Back 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Cottages and a Mill.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Melancholy.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A House at Auvers.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant, Stooping, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 19.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Reaper 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Road to Tarascon.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Study of Three Peasants, One Sitting.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Self-Portrait with Cap.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Violinist Seen from the Front.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Young Man 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Kneeling Ecorche.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Fountain in the Garden of Saint-Paul Hospital.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Houses in Saintes-Maries.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Top Hat.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketches of a Cottage and Figures.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Plain of La Crau 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Figures in a Park.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Seated Man with a Beard.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sheet with a Woman at a Table and a Woman Walking.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man in Sunday Clothes with Eye Bandage, Head.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver Facing Left.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Cap, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Carriage.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Long Overcoat and Umbrella, Seen from the Back.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 13.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Fisherman with a Sou wester.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 16.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orphan Man with Pickax on his Shoulder.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/A View of Paris with the Op.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sien Nursing Baby 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Head of a Woman 13.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Potato Harvest with Two Figures.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Weaver, with a Baby in a Highchair.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Sien Nursing Baby, Half-Figure 2.jpg",Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 7.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of a Stooping Man.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Stooping, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Edge of a Wood.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Three Peasants with Spades on a Road in the Rain.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Stocky Man 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Pine Trees in Front of the Wall of the Asylum 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Lifting Potatoes 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Digger 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Interior of a Restaurant.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Worn Out.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Several Figures on a Road with Trees.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Public Garden with Vincent s House in the Background.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Landscape with Cottages.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Boy with Cap and Clogs.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mademoiselle Gachet at the Piano.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Two Hands 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/People Walking in Eindhoven.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Weaver Facing Left 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Orchard with Blossoming Plum Trees The White Orchard.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Four Sketches of a Foot.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Old Man with his Head in his Hands, Half-Figure.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Sketch of Clouds with Colour Annotations.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Kneeling, Seen from the Back.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with Striped Skirt.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Wheat Field with Cypresses 2.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Snowy Landscape with Stooping Woman.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Old Man with a Top Hat.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 2.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Mask of an Egyptian Mummy 4.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman Praying.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman, Head 12.jpg",Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/The Kingfisher.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Peasant Woman Digging.jpg,Drawings,3
+/kaggle/input/van-gogh-paintings/Drawings/Woman with a Mourning Shawl.jpg,Drawings,3
+"/kaggle/input/van-gogh-paintings/Works of the young van Gogh/View of Royal Road, Ramsgate.jpg",Works of the young van Gogh,11
+"/kaggle/input/van-gogh-paintings/Works of the young van Gogh/View of Royal Road, Ramsgate 2.jpg",Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Corinthian Capital.jpg,Works of the young van Gogh,11
+"/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Lange Vijverberg, The Hague.jpg",Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Barn and Farmhouse.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Churches at Petersham and Turnham Green.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/La Maison de Zandmennik.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Ville dAvray LEtang au Batelier.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Miners in the Snow at Dawn sketch in letter 134.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Two Sketches of a Man Leaning on His Spade.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/The Surroundings of Croy Castle Near Aarle.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/The Bridge.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/The Au Charbonnage Cafe.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Milk Jug.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Vicarage and Church at Etten.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Dog.jpg,Works of the young van Gogh,11
+"/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Austin Friars Church, London.jpg",Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/View of Helvoirt.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/The Cave of Machpelah.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Driveway.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Sketchbook 1.jpg,Works of the young van Gogh,11
+"/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Vincent s Boarding House in Hackford Road, Brixton, London.jpg",Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Old Woman Asleep after Rops.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Sketch of Westminster Bridge and the Houses of Parliament.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Ditch.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Church of Helvoirt.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/La Maison Magros.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Vicarage at Etten.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Mills in the Neighbourhood of Dordrecht.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/Canal.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Works of the young van Gogh/The Goat Herd.jpg,Works of the young van Gogh,11
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 9.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Baskets of Potatoes.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Avenue of Poplars in Autumn.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Young Peasant Woman with Dark Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Lane in Autumn.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of an Old Peasant Woman with White Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Landscape with Pollard Willows.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 3.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Peasant Digging.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Trees and Peasant Woman.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant with a Pipe.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant with Cap 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 5.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 3.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 5.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Basket of Apples.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 8.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant with Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Congregation Leaving the Reformed Church in Nuenen.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Peasant and Peasant Woman Planting Potatoes.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Beer Tankards.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Trees.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Greenish Lace Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Basket of Potatoes 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 4.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 6.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Country Lane with Two Figures.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage and Woman with Goat.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Bobbin Winder.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman in a Green Shawl.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 4.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Autumn Landscape.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Trees 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Peasant Woman Digging.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Farmers Planting Potatoes.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Trees 3.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Avenue of Poplars at Sunset.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 3.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 8.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cart with Black Ox.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Autumn Landscape with Four Trees.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 6.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Young Peasant in a Peaked Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Landscape at Sunset.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Autumn Landscape at Dusk.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Landscape with Windblown Trees.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 5.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 7.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Young Peasant in a Peaked Cap 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 7.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/New-Born Calf Lying on Straw.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Brabant Peasant Woman with Dark Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Peasant Making a Basket 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 8.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 4.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman 3.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Basket of Potatoes.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Brownish Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cart with Red and White Ox.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 9.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 6.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Man 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Flying Fox.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap.jpg,Nuenen,5
+"/kaggle/input/van-gogh-paintings/Nuenen/Gordina de Groot, Head 2.jpg",Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of an Old Peasant Woman with White Cap 2.jpg,Nuenen,5
+"/kaggle/input/van-gogh-paintings/Nuenen/Gordina de Groot, Head.jpg",Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Lane with Poplars.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Basket of Apples 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Peasant Coming Home.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Man.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 7.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Old Church Tower at Nuenen The Peasants Churchyard.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Woman 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with Dark Cap 9.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Landscape at Dusk.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Cottage with Decrepit Barn and Stooping Woman.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Nuenen/Head of a Peasant Woman with White Cap 2.jpg,Nuenen,5
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/View of Auvers with Church.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Landscape with Carriage and Train in the Background.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Young Peasant Woman with Straw Hat Sitting in the Wheat.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Field with Wheat Stacks.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Fields near Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Adeline Ravoux 3.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Daubigny s Garden 3.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Undergrowth with Two Figures.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Grove.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Village Street in Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Doctor Gachet 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Vase with Flower and Thistles.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Vineyards with a View of Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Village Street and Steps in Auvers with Two Figures.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Blossoming Chestnut Branches.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/View of Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Field at Auvers with White House.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Doctor Gachet.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Plain Near Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Japanese Vase with Roses and Anemones.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Red Poppies and Daisies.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Cows after Jordaens.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Landscape with the Chateau of Auvers at Sunset.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Little Stream.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Daubigny s Garden.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Adeline Ravoux.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Two Children.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The White House at Night.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Young Girl Standing Against a Background of Wheat.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Field Under Clouded Sky.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Marguerite Gachet in the Garden.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Blossoming Acacia Branches.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Tree Roots and Trunks.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Farmhouse with Two Figures.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Glass with Carnations.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Doctor Gachet s Garden in Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Field with Crows.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Daubigny s Garden 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Little Arlesienne.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Pink Roses.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wild Flowers and Thistles in a Vase.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Two Children 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Field with Cornflowers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Thatched Cottages.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Church at Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Thatched Cottages at Cordeville.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Church at Auvers 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Houses in Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The House of Pere Pilon.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Thatched Sandstone Cottages in Chaponval.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Ears of Wheat.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Adeline Ravoux 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Fields with Auvers in the Background.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Haystacks under a Rainy Sky.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Village Street and Steps in Auvers with Figures.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Marguerite Gachet at the Piano.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The House of Pere Eloi.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/The Fields.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Young Man with Cornflower.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Vase with Rose-Mallows.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/View of Vessenots Near Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Bank of the Oise at Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Landscape at Auvers in the Rain.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Chestnut Trees in Blossom.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Thatched Cottages by a Hill.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Fields.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Two Women Crossing the Fields.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Auvers Town Hall on 14 July 1890.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Child with Orange.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Thatched Cottages in Jorgus.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Portrait of Doctor Gachet L Homme a la Pipe.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Still Life Glass with Wild Flowers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Field of Spring Wheat at Sunrise.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Field with Stacks of Wheat.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Garden in Auvers.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Wheat Fields at Auvers Under Clouded Sky.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Houses in Auvers 2.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Chestnut Tree in Blossom.jpg,Auvers sur Oise,2
+/kaggle/input/van-gogh-paintings/Auvers sur Oise/Landscape with Three Trees and a House.jpg,Auvers sur Oise,2
